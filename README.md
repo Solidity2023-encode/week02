@@ -11,3 +11,7 @@ Result: Self-delegation is not allowed
 Txn Hash: 0xcac4e56465b44a4d7afdfc928ba783329962bd5841958603b003669622057f3e
 
 Voted for a proposal
+
+Txn Hash: 0x5c19a95c00000000000000000000000067f1452b3099cfb27e708130421c98ad2319c0b7
+
+Can't delegate as I've already voted
