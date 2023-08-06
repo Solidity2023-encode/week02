@@ -13,6 +13,14 @@ Voted
 Txn Hash :[0x8abd02ff96b88ec61c1707f6e345e812b487312edd49756a9b4c19fe250eaf4a](https://sepolia.etherscan.io/tx/0x8abd02ff96b88ec61c1707f6e345e812b487312edd49756a9b4c19fe250eaf4a)
 Give right to vote
 
+Txn Hash :[0x0c08bb108ec4b0cea2edf1f09a32b5f45cf0464babd656ca8d5a9ff6b3c9ab9e](https://sepolia.etherscan.io/tx/0x0c08bb108ec4b0cea2edf1f09a32b5f45cf0464babd656ca8d5a9ff6b3c9ab9e)
+Give right to vote
+
+Txn Hash :[0x1466c8796c5e6055b06a480c752c33c3383195c19c78ccd87a90cbeaf1ef0d5c](https://sepolia.etherscan.io/tx/0x1466c8796c5e6055b06a480c752c33c3383195c19c78ccd87a90cbeaf1ef0d5c)
+Give right to vote
+
+Txn Hash :[0xa071138ea895b721e0cc109e94139626afd6ab9366c71ed312ba0c28db4fa673](https://sepolia.etherscan.io/tx/0xa071138ea895b721e0cc109e94139626afd6ab9366c71ed312ba0c28db4fa673)
+Give right to vote
 
 # Vibhanshu Bhardwaj's Interaction with the contract:
 
